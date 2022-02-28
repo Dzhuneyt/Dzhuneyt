@@ -1,3 +1,5 @@
+<a href="https://stackoverflow.com/users/1364793/dzhuneyt"><img src="https://stackoverflow.com/users/flair/1364793.png" width="208" height="58" alt="profile for Dzhuneyt at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dzhuneyt at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 Software development engineer based in Bulgaria. Loves to write code and build complex cloud apps. Has been doing this since 2010.
 
 ---
