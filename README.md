@@ -1,5 +1,7 @@
 <a href="https://www.linkedin.com/in/juneit/"><img width="100%" src="https://dzhuneyt.com/aws-community-builder-dzhuneyt.jpg"/></a>
 
+Experienced AWS cloud engineer with a passion for automation and infrastructure as code. On my GitHub you can find various examples of my work in designing, deploying and maintaining scalable, secure and highly available cloud infrastructure using AWS services such as EC2, S3, RDS, and Lambda. I also have a strong focus on cost optimization, monitoring and security best practices. You can find my Open-source projects, contributions, scripts, and templates that demonstrate my technical skills and my experience in cloud infrastructure, automation, and optimization.
+
 <a href='https://www.credly.com/badges/53bd3b8e-90df-4bab-89b8-136155f34322/public_url'><img width="100" src='https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png'/></a>
                        
 <a href="https://stackoverflow.com/users/1364793/dzhuneyt"><img src="https://stackoverflow.com/users/flair/1364793.png" width="208" height="58" alt="profile for Dzhuneyt at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dzhuneyt at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
