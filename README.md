@@ -31,6 +31,24 @@ Software engineer, Cloud apps deployment expert, DevOps, CI/CD
 ### StackOverflow contributions
 <a href="https://stackoverflow.com/users/1364793/dzhuneyt"><img src="https://stackoverflow.com/users/flair/1364793.png" width="208" height="58" alt="profile for Dzhuneyt at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dzhuneyt at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+### Open Source contributions
+* https://github.com/aws/aws-cdk/pull/21262
+* https://github.com/aws/aws-cdk/pull/21041
+* https://github.com/aws/aws-cdk/pull/20174
+* https://github.com/aws/aws-cdk/pull/19437
+* https://github.com/aws/aws-cdk/pull/17970
+* https://github.com/aws/aws-cdk/pull/18765
+* https://github.com/jamesward/kubernetes-the-easy-way/pull/1
+* https://github.com/rubenafo/eth-playground/pull/2
+* https://github.com/aws/aws-cdk/pull/8766
+* https://github.com/linslin/Yii2-Curl/pull/75
+* https://github.com/Wiredcraft/carte/pull/31
+* https://github.com/guzzle/guzzle/pull/2242
+* https://github.com/composer/composer/pull/7880
+* https://github.com/yiisoft/log/pull/5
+* https://github.com/yiisoft/yii2/pull/17010
+* https://github.com/yiisoft/yii2/pull/17009
+
 <a href="https://github.com/Dzhuneyt">
 <img src="https://github-readme-stats.vercel.app/api?username=Dzhuneyt&show_icons=true&theme=dark&hide_border=true&custom_title=Stats&include_all_commits=true&count_private=true" align="center"/>
 </a>
