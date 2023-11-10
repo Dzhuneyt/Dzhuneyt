@@ -1,24 +1,31 @@
-<a href="https://www.linkedin.com/in/juneit/"><img width="100%" src="https://dzhuneyt.com/aws-community-builder-dzhuneyt.jpg"/></a>
+🗓️ [Book a call with me (Calendly)](https://calendly.com/dzhun/30min)
+
+### AWS Certifications
+
+
+<a href='https://www.credly.com/badges/ed626109-2bc1-4090-b6ec-3cf7d3e65db6/public_url'><img width="100" src='https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png'/></a>
+<a href='https://www.credly.com/badges/53bd3b8e-90df-4bab-89b8-136155f34322/public_url'><img width="100" src='https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png'/></a>
+
+<a href="https://www.linkedin.com/in/juneit/"><img width="50%" src="https://dzhuneyt.com/aws-community-builder-dzhuneyt.jpg"/></a>
+
+
+### StackOverflow contributions
+<a href="https://stackoverflow.com/users/1364793/dzhuneyt"><img src="https://stackoverflow.com/users/flair/1364793.png" width="208" height="58" alt="profile for Dzhuneyt at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dzhuneyt at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 Experienced AWS cloud engineer with a passion for automation and infrastructure as code. On my GitHub you can find various examples of my work in designing, deploying and maintaining scalable, secure and highly available cloud infrastructure using AWS services such as EC2, S3, RDS, and Lambda. I also have a strong focus on cost optimization, monitoring and security best practices. You can find my Open-source projects, contributions, scripts, and templates that demonstrate my technical skills and my experience in cloud infrastructure, automation, and optimization.
 
-<a href='https://www.credly.com/badges/53bd3b8e-90df-4bab-89b8-136155f34322/public_url'><img width="100" src='https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png'/></a>
-                       
-<a href="https://stackoverflow.com/users/1364793/dzhuneyt"><img src="https://stackoverflow.com/users/flair/1364793.png" width="208" height="58" alt="profile for Dzhuneyt at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dzhuneyt at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+### Skill highlights
 
-* Software engineer
-* Cloud apps deployment expert
-* DevOps
-* CI/CD
+Software engineer, Cloud apps deployment expert, DevOps, CI/CD
 
----
 
-Technology stack overview:
+### Overview of technology stack
 
-* AWS, AWS CDK
-* TypeScript
-* Angular, React
-* PHP, Laravel, Yii
+* AWS - most of the cloud-native offertings - API GW, AppSync, DynamoDB, RDS, S3, SQS/SNS
+* Infrastructure as Code - AWS CDK, SST and Terraform
+* Programming languages: TypeScript, Java, Golang, Dart, Python, PHP
+* Backend frameworks: Nest.js, Express, Yii2, Laravel
+* Frontend frameworks: React, Next.js, Angular
 
 ---
 
