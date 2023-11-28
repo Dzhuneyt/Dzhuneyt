@@ -52,3 +52,5 @@ Software engineer, Cloud apps deployment expert, DevOps, CI/CD
 <a href="https://github.com/Dzhuneyt">
 <img src="https://github-readme-stats.vercel.app/api?username=Dzhuneyt&show_icons=true&theme=dark&hide_border=true&custom_title=Stats&include_all_commits=true&count_private=true" align="center"/>
 </a>
+
+![](https://komarev.com/ghpvc/?username=Dzhuneyt)
