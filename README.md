@@ -38,6 +38,7 @@ Software engineer, Cloud apps deployment expert, DevOps, CI/CD
 * https://github.com/aws/aws-cdk/pull/19437
 * https://github.com/aws/aws-cdk/pull/17970
 * https://github.com/aws/aws-cdk/pull/18765
+* https://github.com/ALLTERCO/shelly-script-examples/pull/74
 * https://github.com/jamesward/kubernetes-the-easy-way/pull/1
 * https://github.com/rubenafo/eth-playground/pull/2
 * https://github.com/aws/aws-cdk/pull/8766
