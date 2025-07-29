@@ -1,0 +1,30 @@
+# Home Assistant Scripts Configuration
+# Scripts for controlling Living Room lights
+
+# Turn off all Living Room lights
+turn_off_living_room_lights:
+  alias: "Turn Off Living Room Lights"
+  description: "Turn off all lights in the Living Room"
+  icon: "mdi:lightbulb-off"
+  sequence:
+    - service: light.turn_off
+      target:
+        area_id: living_room
+    - service: notify.persistent_notification
+      data:
+        message: "All Living Room lights have been turned off"
+        title: "Living Room Lights"
+
+# Turn on all Living Room lights  
+turn_on_living_room_lights:
+  alias: "Turn On Living Room Lights"
+  description: "Turn on all lights in the Living Room"
+  icon: "mdi:lightbulb-on"
+  sequence:
+    - service: light.turn_on
+      target:
+        area_id: living_room
+    - service: notify.persistent_notification
+      data:
+        message: "All Living Room lights have been turned on"
+        title: "Living Room Lights"
