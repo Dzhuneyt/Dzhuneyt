@@ -7,9 +7,6 @@
 [![Book a call with me](https://img.shields.io/badge/📅_Book_a_Call-Calendly-blue?style=for-the-badge)](https://calendly.com/dzhun/30min)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juneit/)
 
-<a href="https://www.linkedin.com/in/juneit/">
-  <img width="50%" src="https://dzhuneyt.com/aws-community-builder-dzhuneyt.jpg" alt="AWS Community Builder"/>
-</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dzhuneyt&style=for-the-badge)
 
