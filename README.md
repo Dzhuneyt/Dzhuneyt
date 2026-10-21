@@ -1,118 +1,80 @@
-# Hi there, I'm Dzhuneyt! 👋
+# Dzhuneyt Ahmed
 
-### 🚀 AWS Cloud Engineer | DevOps Expert | Open Source Contributor
+CTO at Provenant · Cloud infrastructure consultant · AWS Community Builder
 
-<div align="center">
-  
-[![Book a call with me](https://img.shields.io/badge/📅_Book_a_Call-Calendly-blue?style=for-the-badge)](https://calendly.com/dzhun/30min)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juneit/)
+I design, build and run cloud infrastructure on AWS for companies that need it to be reliable and not expensive. I have shipped production software since 2012, and I went from backend developer to CTO along the way. I still write the code.
 
+[Website](https://dzhuneyt.com) · [LinkedIn](https://www.linkedin.com/in/juneit/) · [Book a 30-minute call](https://calendly.com/dzhun/30min) · [Stack Overflow](https://stackoverflow.com/users/1364793/dzhuneyt)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dzhuneyt&style=for-the-badge)
+## How I work
 
-</div>
+I zoom out to set direction and zoom in to fix the exact line that breaks. Most problems need both, and I switch to whichever level the problem needs at the time.
 
----
+| Zoomed out | Zoomed in |
+| --- | --- |
+| Became CTO as Protokol pivoted to building its own product. Now I lead engineering at Provenant, its spin-off. | 8 merged pull requests in AWS CDK, for example a fix for [Lambda `grantInvoke` called twice with different principals](https://github.com/aws/aws-cdk/pull/20174) |
+| Architecture that puts cost first: right-sizing, spot capacity, serverless where it pays off | A [Terraform module](https://github.com/Dzhuneyt/terraform-aws-ecs-cluster) that runs ECS on a mix of spot and on-demand EC2 |
+| Ran a 12-person agency: technical direction, mentoring, growing the client base | Replaced `microtime()` with [`hrtime()` in Guzzle](https://github.com/guzzle/guzzle/pull/2242) for monotonic, high-resolution timing |
 
-## 👨‍💻 About Me
+## What I work on
 
-Experienced **AWS Cloud Engineer** with a passion for automation and infrastructure as code. I specialize in designing, deploying, and maintaining scalable, secure, and highly available cloud infrastructure using AWS services. My focus areas include cost optimization, monitoring, and security best practices.
+- **AWS architecture:** serverless (Lambda, API Gateway, AppSync, DynamoDB, SQS/SNS), containers (ECS, EKS), and cost reduction.
+- **Infrastructure as code:** AWS CDK, Terraform, SST and CloudFormation.
+- **Delivery:** CI/CD with GitHub Actions and CodePipeline, OIDC-based deployments, multi-account AWS.
+- **Languages:** TypeScript, Go, Python, Java and PHP.
 
-On my GitHub, you'll find open-source projects, contributions, scripts, and templates that demonstrate my expertise in cloud infrastructure, automation, and optimization.
+## Experience
 
----
+| Role | Company | Years |
+| --- | --- | --- |
+| Solutions Architect → CTO | Protokol → Provenant (spun off from Protokol) | 2021 – now |
+| Co-founder, CTO | ScavaSoft, a 12-person software agency in Varna, Bulgaria | 2019 – 2023 |
+| Backend developer → Team lead | Docebo. I joined at about 30 people. It listed on NASDAQ in 2020. | 2012 – 2019 |
 
-## 🛠️ Technology Stack
+## Certifications and community
 
-### ☁️ **Cloud & Infrastructure**
-- **AWS Services**: EC2, S3, RDS, Lambda, API Gateway, AppSync, DynamoDB, SQS/SNS
-- **Infrastructure as Code**: AWS CDK, SST, Terraform
-- **DevOps & CI/CD**: Automation, Pipeline Management
+| | Certification | Earned |
+| --- | --- | --- |
+| <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60" alt="AWS Certified Solutions Architect – Associate badge"> | [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ed626109-2bc1-4090-b6ec-3cf7d3e65db6/public_url) | 2023 |
+| <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" alt="AWS Certified Cloud Practitioner badge"> | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/9f04f98c-11a3-420a-a4a1-807a0b9963cc/public_url) | 2022 |
 
-### 💻 **Programming Languages**
-```
-TypeScript  ████████████████████████████████████████ 90%
-Java        ███████████████████████████████████████  85%
-Python      ██████████████████████████████████████   80%
-Golang      ████████████████████████████████████     75%
-Dart        ██████████████████████████████████       70%
-PHP         ███████████████████████████████████      75%
-```
+AWS Community Builder since 2022.
 
-### 🔧 **Frameworks & Tools**
-- **Backend**: Nest.js, Express, Yii2, Laravel
-- **Frontend**: React, Next.js, Angular
-- **Specialties**: Software Engineering, Cloud Deployment, DevOps, CI/CD
+## Open source
 
----
+**[aws/aws-cdk](https://github.com/aws/aws-cdk): 8 merged pull requests**
 
-## 🏆 AWS Certifications
+- [feat(cognito): allow retrieval of UserPoolClient generated client secret](https://github.com/aws/aws-cdk/pull/21262)
+- [feat(batch): add default AWS_ACCOUNT and AWS_REGION to Batch container](https://github.com/aws/aws-cdk/pull/21041)
+- [fix(lambda): grant invoke twice with different principals](https://github.com/aws/aws-cdk/pull/20174)
+- [feat(aws-ec2): enable/disable EC2 "Detailed Monitoring"](https://github.com/aws/aws-cdk/pull/19437)
+- [fix(lambda): validate Lambda "functionName" parameter](https://github.com/aws/aws-cdk/pull/17970)
+- [fix(aws-appsync): strip unsupported characters from Lambda DataSource](https://github.com/aws/aws-cdk/pull/18765)
+- [feat(core): improved Docker bundling performance on macOS](https://github.com/aws/aws-cdk/pull/8766)
 
-<div align="center">
+**Other merged contributions**
 
-[![AWS Certified Solutions Architect](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/ed626109-2bc1-4090-b6ec-3cf7d3e65db6/public_url)
-[![AWS Certified Developer](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/53bd3b8e-90df-4bab-89b8-136155f34322/public_url)
+- [composer/composer](https://github.com/composer/composer/pull/7880): `--no-cache` argument for `composer install` and `composer update`
+- [guzzle/guzzle](https://github.com/guzzle/guzzle/pull/2242): replace `microtime()` with `hrtime()`
+- [yiisoft/yii2](https://github.com/yiisoft/yii2/pull/17009): support for the `u` modifier in regex validators, plus the [Bulgarian translation](https://github.com/yiisoft/yii2/pull/17010)
+- [awesome-cdk/cdk-report-codepipeline-status-to-github](https://github.com/awesome-cdk/cdk-report-codepipeline-status-to-github/pull/4): migration to AWS CDK v2, and [npm trusted publishing via OIDC](https://github.com/awesome-cdk/cdk-report-codepipeline-status-to-github/pull/5)
+- [RobHofmann/HomeAssistant-GreeClimateComponent](https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent/pull/442): auto-clear a stale encryption key after repeated update failures
 
-**🌟 AWS Community Builder** since 2022
+## Tools I built
 
-</div>
+| Project | What it does |
+| --- | --- |
+| [terraform-aws-ecs-cluster](https://github.com/Dzhuneyt/terraform-aws-ecs-cluster) | Terraform module for an ECS cluster of spot and on-demand EC2 instances |
+| [cf-purge](https://github.com/Dzhuneyt/cf-purge) | Deletes CloudFormation stacks that match a pattern |
+| [nuke-orphan-buckets](https://github.com/Dzhuneyt/nuke-orphan-buckets) | Deletes S3 buckets that no CloudFormation stack manages |
+| [aws-cdk-get-stack-output](https://github.com/Dzhuneyt/aws-cdk-get-stack-output) | Reads output values from deployed AWS CDK stacks |
+| [skill-docs2md](https://github.com/Dzhuneyt/skill-docs2md) | AI agent skill that crawls a docs site into one Markdown file, so the agent reads current docs |
 
----
+## Teaching and writing
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dzhuneyt&show_icons=true&theme=dark&hide_border=true&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dzhuneyt&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Community Contributions
-
-### 💬 **StackOverflow**
-<a href="https://stackoverflow.com/users/1364793/dzhuneyt">
-  <img src="https://stackoverflow.com/users/flair/1364793.png" width="208" height="58" alt="StackOverflow Profile" title="StackOverflow Profile"/>
-</a>
-
-### 🔧 **Open Source Contributions**
-
-#### 🚀 **AWS CDK Contributions**
-- [feat: add support for CloudWatch Logs retention policy](https://github.com/aws/aws-cdk/pull/21262)
-- [feat: improve S3 bucket encryption configuration](https://github.com/aws/aws-cdk/pull/21041)
-- [fix: resolve IAM policy attachment issues](https://github.com/aws/aws-cdk/pull/20174)
-- [feat: enhance Lambda function configuration](https://github.com/aws/aws-cdk/pull/19437)
-- [fix: improve VPC endpoint configuration](https://github.com/aws/aws-cdk/pull/17970)
-- [feat: add CloudWatch dashboard enhancements](https://github.com/aws/aws-cdk/pull/18765)
-- [feat: initial CDK contribution](https://github.com/aws/aws-cdk/pull/8766)
-
-#### 🌐 **Other Notable Contributions**
-- [Shelly Script Examples](https://github.com/ALLTERCO/shelly-script-examples/pull/74)
-- [Kubernetes The Easy Way](https://github.com/jamesward/kubernetes-the-easy-way/pull/1)
-- [Ethereum Playground](https://github.com/rubenafo/eth-playground/pull/2)
-- [Yii2 Framework](https://github.com/yiisoft/yii2/pull/17010) & [Log Component](https://github.com/yiisoft/log/pull/5)
-- [Composer Package Manager](https://github.com/composer/composer/pull/7880)
-- [Guzzle HTTP Client](https://github.com/guzzle/guzzle/pull/2242)
+- **Udemy:** [Creating a Serverless API that Scales](https://www.udemy.com/course/aws-cdk-serverless-api/). 4,354 students, rated 4.4/5.
+- **Blog:** [dzhuneyt.com](https://dzhuneyt.com) covers AWS, CDK, DevOps, security and AI in engineering teams.
 
 ---
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juneit/)
-[![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1364793/dzhuneyt)
-[![Calendly](https://img.shields.io/badge/Schedule%20a%20Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/dzhun/30min)
-
-💬 **Always open to discussing cloud architecture, AWS best practices, and open source collaboration!**
-
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Dzhuneyt">Dzhuneyt</a> with ❤️</i>
-</div>
+Open to consulting on AWS architecture, migrations and cloud cost reduction. [Book a call](https://calendly.com/dzhun/30min).
